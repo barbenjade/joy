@@ -1,5 +1,5 @@
 <?php
-
+echo "taiwan";
 $connection = mysqli__connect("8080", "root", "", "dbthree");
 
 $query = "DELETE FROM updateone WHERE ID = '$variableinput'";
