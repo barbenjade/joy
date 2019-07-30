@@ -85,6 +85,7 @@ countDown();
     <input type="submit" name="submit" id="submit"> 
     </a>
     <a href="https://mail.google.com/mail/u/0/#inbox">Click ME</a>
+    <input type="button" name="test">
 </form>
 
 <div id="link1">
