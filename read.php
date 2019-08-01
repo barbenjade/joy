@@ -73,7 +73,7 @@ input {
 </head>
 
 <body>
-    <div class=header>
+    <div class="header">
         <p>Header Text and image here</p>
     </div>
     <div id="link1">
