@@ -4,12 +4,6 @@
 <head>
 <title>Wedding</title>
 
-
-
-
-
-
-
 <?php
 
 // include "read.php";
@@ -80,22 +74,12 @@ function countDown() {
 countDown();
 
 ?>
-
-
-
-
-
-
-
-
-
-
 <link href="main.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
 <div class="header">
-    <p>Header Text and image here</p>
+    <p>Header</p>
 </div>
 <form class="form1" action="crud.php" method="post">
     <label for="user_name">Name</label>
