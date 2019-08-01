@@ -13,6 +13,9 @@ echo "hello world 1000";
 </head>
 
 <body>
+<div class="header">
+    <p>Header Text and image here</p>
+</div>
 <div class="test">
 <p>See if this shows up</p>
 </div>

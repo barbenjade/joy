@@ -19,3 +19,14 @@ body {
     margin: 3px 3px 35px 3px;
 
 }
+
+/* Header Styles */
+.header > p{
+    color: green;
+    height: 45px;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
