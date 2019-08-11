@@ -1,1 +1,1 @@
-﻿# Wedding Invite Site
+Wedding Invite Site for wedding planning.
