@@ -1,1 +1,1 @@
-Wedding Invite Site for wedding planning.
+Wedding Invite Site for wedding planning and countdown.
